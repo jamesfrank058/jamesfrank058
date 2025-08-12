@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Networking Structure Project: Designing a reliable, scalable network for optimized data flow and security.**
 
-- 🤝 I’m looking for help with **kidzfree**
+- 🤝 I’m looking for help with **Tech ideas**
 
 - 👨‍💻 All of my projects are available at [https://jamesfrank058.github.io/jamesfranklin/](https://jamesfrank058.github.io/jamesfranklin/)
 
