@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Tech ideas**
 
-- 👨‍💻 All of my projects are available at [https://jamesfrank058.github.io/jamesfranklin/](https://jamesfrank058.github.io/jamesfranklin/)
+- 👨‍💻 All of my projects are available at [https://portifolio-gules-beta-24.vercel.app/](https://portifolio-gules-beta-24.vercel.app)
 
-- 📝 I regularly write articles on [programming, cyber security](programming, cyber security)
+- 📝 I regularly write articles on [programming, cyber security]
 
 - 💬 Ask me about **tech**
 
