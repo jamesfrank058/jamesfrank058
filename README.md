@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesfrank058" alt="jamesfrank058" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/its_frank_james" target="blank"><img src="https://img.shields.io/twitter/follow/its_frank_james?logo=twitter&style=for-the-badge" alt="its_frank_james" /></a> </p>
-
 - 🔭 I’m currently working on **Kidzfree**
 
 - 🌱 I’m currently learning **🔧 Technologies & Tools - Languages: Python, JavaScript, C++ - Frameworks & Libraries: Node.js, React, TensorFlow - Tools & Platforms: Git, GitHub, Docker, AWS - Specialties: Networking, Software Development, Cybersecurity**
