@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Franklin</h1>
-<h3 align="center">I'm a passionate Software Developer and Cyber security expertwith a strong interest in networking structures and cybersecurity. Currently, I'm diving into projects like spam detection software to enhance online security and build a safer digital environment. I'm constantly on the lookout for innovative solutions and efficient approaches to complex challenges.</h3>
+<h3 align="center">I'm a passionate Software Developer and Cyber security expert with a strong interest in networking structures and cybersecurity. Currently, I'm diving into projects like spam detection software to enhance online security and build a safer digital environment. I'm constantly on the lookout for innovative solutions and efficient approaches to complex challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesfrank058&label=Profile%20views&color=0e75b6&style=flat" alt="jamesfrank058" /> </p>
 
