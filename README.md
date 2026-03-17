@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I enjoy learning about emerging tech and brainstorming with fellow developers. Always open to new ideas and collaborations!**
 
-- 📝 I regularly write articles on **[https://jamesfranlin.vercel.app/](https://jamesfranklin.vercel.app/)**
+- 📝 I regularly write articles on **[https://jamesfranklin.vercel.app/](https://jamesfranklin.vercel.app/)**
 
 - 📄 Know about my experiences **[https://jamesfranklin.vercel.app/](https://jamesfranklin.vercel.app/)**
 
