@@ -1,6 +1,6 @@
 # Hi 👋, I'm James Franklin
 
-### I'm a passionate Software Developer and Cyber security expertwith a strong interest in networking structures and cybersecurity. 
+### I'm a passionate Software Developer and Cyber security expert with a strong interest in networking structures and cybersecurity. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesfrank058&label=Profile views&color=0e75b6&style=flat" alt="jamesfrank058" /> </p>
 
